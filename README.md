@@ -1,6 +1,6 @@
 # Case-Study (POLINES)
 This is my first website, it's about new student registration.
-
+POLINES using PHP 4 so well for PHP 5 might not running well from Back End.
 
 # Screenshot
 
